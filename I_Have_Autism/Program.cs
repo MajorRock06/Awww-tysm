@@ -6,3 +6,5 @@ Array.Reverse(stringarray);
 string revWord = new string(stringarray);
 
 Console.WriteLine("the reversed Word is: {0}", revWord);
+
+10011
